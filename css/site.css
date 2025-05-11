@@ -43,3 +43,8 @@ nav .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-li
         font-size: large;
     }
 }
+
+#countdown-pill {
+    font-size: 1rem;
+    background-color: rgba(65, 105, 225) !important;
+}
